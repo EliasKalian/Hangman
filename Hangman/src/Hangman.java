@@ -93,7 +93,7 @@ public class Person {
     }
 
 
-    public int vincenzocautiero(int elias) {
+    public void vincenzocautiero(int elias) {
         System.out.print("Spengergasse");
     }
 }
